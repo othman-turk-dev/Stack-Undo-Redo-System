@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Undo and Redo Example.vcxproj" Id="296e3997-5642-4763-9290-481bd9a24dad" />
+</Solution>
